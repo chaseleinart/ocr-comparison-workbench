@@ -1,0 +1,41 @@
+Invoice no: 99763738
+Date of issue: 06/14/2017
+Seller:
+Wheeler-Dawson
+66055 Tammy Loaf Apt. 344
+South Adambarg, AR 08257
+Tax Id: 928-86-2361
+IBAN: GB85ROPu13395160617712
+ITEMS
+No. Description
+1.
+Joma Youth Boys Gol 205 Piso
+Multitdela Soccer Cleats 2.5
+White Blue Yellow NEW
+2.
+Reebok Kids Boys Blue Sneakers
+Shoes US 11 No Laces
+3.
+Adult Girl Version Hermione
+Granger Cosplay Costume
+Gryffindor Robe Size in Stock
+Client:
+Franklin, Alexander and Ford
+98812 Lynch Underpass Suite 322
+Lake Erica, LA 35312
+Tax Id: 962-81-9802
+Qty UM Net price Net worth VAT [%] Gross
+worth
+5,00 each 19,99 99,95 10% 109,94
+2,00 each 5,00 10,00 10% 11,00
+4,00 each 64,16 256,64 10% 282,30
+SUMMARY
+VAT [%]
+Net worth
+VAT
+Gross worth
+10%
+366,59
+36,66
+403,25
+Total $ 366,59 $ 36,66 $ 403,25

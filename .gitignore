@@ -1,0 +1,71 @@
+# --- Secrets & credentials ---
+.env
+.env.*
+*.pem
+*.key
+.credentials.json
+.config/rclone/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+venv/
+.venv/
+unsloth_compiled_cache/
+
+# --- Large / downloaded model assets ---
+deepseek_ocr/
+llm_server/ollama_data/
+*.safetensors
+*.bin
+*.gguf
+
+# --- Logs ---
+*.log
+.lightning_studio/logs/
+
+# --- Caches ---
+.cache/
+.triton/
+.nv/
+.deepeval/
+.dotnet/
+.config/
+
+# --- Editors / IDEs ---
+.vscode/
+.idea/
+
+# --- Cloud IDE / agent tool state (contain session data or credentials) ---
+.claude/
+.claude.json
+.copilot/
+.cursor-server
+.vscode-server
+.windsurf-server
+
+# --- Shell & environment dotfiles (host-specific, not project files) ---
+.bash_history
+.bashrc
+.zsh_history
+.zshrc
+.zcompdump*
+.vimrc
+.profile
+.hushlogin
+.condarc
+.gitconfig
+.wget-hsts
+.jupyter
+.local
+.nvm
+.oh-my-zsh
+.ssh
+.streamlit/
+.lightningignore
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db

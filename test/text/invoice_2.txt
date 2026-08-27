@@ -1,0 +1,52 @@
+Invoice no: 39280409
+Date of issue: 07/06/2014
+Seller:
+Davis PLC
+72057 Castillo Via
+Deniseshire, KY 95233
+Tax Id: 938-79-9168
+IBAN: GB39WJUJ70698169375316
+ITEMS
+No. Description
+1.
+2.
+3.
+4.
+5.
+Gindi Rugs Carpet New Design
+Bohemian Garden Yoga Mat
+Indian Killim Counterpane
+Xmas Christmas Rug Carpet
+Cartoon Bedroom Kids Play Mat
+Soft Flannel Area Rugs @
+Bohemian Rug Bag- Woven
+Chinese Sari Living Room Rug /
+Hand-Woven Carpet Rug-Mats
+Rug Beni Ourain, Moroccan
+Handmade 100% Wool Area
+Rug Berber Beni Ouaraïn Carpet
+40x120cm Christmas Door Mat
+Kitchen Floor Area Rug
+Bedroom Living Room Carpet
+Client:
+Bailey-Harris
+106 Michael Street
+North Willam, DC 96680
+Tax Id: 965-83-8071
+Qty UM Net price Net worth VAT [%] Gross
+worth
+2,00 each 29,99 59,98 10% 65,98
+3,00 each 37,31 111,93 10% 123,12
+2,00 each 23,39 46,78 10% 51,46
+3,00 each 450,00 1350,00 10% 1 485,00
+2,00 each 18,99 37,98 10% 41,78
+SUMMARY
+VAT [%]
+Net worth
+VAT
+Gross worth
+10%
+1 606,67
+160,67
+1 767,34
+Total $ 1 606,67 $ 160,67 $ 1 767,34

@@ -1,0 +1,75 @@
+Maruti Infoways
+419, K.V. Road
+Panchkuwa Fire Station
+Athani
+State Name: Gujarat, Code : 24
+CIN: U51109GJ2002PTC04123006
+Contact: 0288-2660530/31 9825098442
+E-Mail: cid2@aaspautomation.com
+Buyer
+Alex Enterprise
+Office No 209 2nd Floor
+Opp. Rajkot Petrol Pump
+Rajkot
+PAN/IT No : AABKUVY345
+State Name : Gujarat, Code : 24
+TAX INVOICE
+Invoice No. 53
+Date 1-Jan-2020
+Delivery Note
+Mode/Terms of Payment
+Supplier's Ref.
+Other Reference(s)
+Buyer's Order No.
+Date
+Despatch Document No.
+Delivery Note Date
+Despatched through
+Destination
+Terms of Delivery
+Sl Description of Goods
+No.
+HSN/SAC Quantity Rate per Disc. % Amount
+1. HC-P00 (HCL Celeron)
+Godown Jamnagar
+2. HC-008 (HCL) PIV
+Godown Jamnagar
+12358964
+52147896
+2 NOS
+1 NOS
+2 NOS
+1 NOS
+18,000.00 NOS
+8,000.00 NOS
+36,000.00
+8,000.00
+44,000.00
+Cgst
+Sgst
+3,960.00
+3,960.00
+Total
+3 NOS
+51,920.00
+Amount Chargeable (in words) INR Fifty One Thousand Nine Hundred Twenty Only
+HSN/SAC Taxable Central Tax State Tax Total Tax
+Value Rate Amount Rate Amount Amount
+12358964
+36,000.00 9% 3,240.00 9% 3,240.00 6,480.00
+52147896
+8,000.00 9% 720.00 9% 720.00 1,440.00
+Total
+44,000.00
+7,920.00
+Tax Amount (in words): INR Seven Thousand Nine Hundred Twenty Only
+Company's PAN : AADCC5062C
+We declare that the above information shows that the actual price of the
+goods described and that all particulars are true and correct.
+Digitally signed by NAGORAPIL HARSHADBHAI
+Date: 01/02/2020 14:59:30
+Reason: 1 Sign
+Location: Jamnagar
+for Maruti Infoways
+Authorised Signatory
+This is a Computer Generated Invoice

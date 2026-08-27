@@ -1,0 +1,16 @@
+services:
+  llm-server:
+    build: .
+    ports:
+      - "11434:11434"
+    volumes:
+      - ./ollama_data:/root/.ollama
+    environment:
+      - MODEL_NAME=${MODEL_NAME:-qwen3-vl:2b}  # Set a default value
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]

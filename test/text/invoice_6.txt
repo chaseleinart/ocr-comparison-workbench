@@ -1,0 +1,59 @@
+Invoice no: 70123184
+Date of issue: 01/28/2016
+Seller:
+Kelly, Hernandez and Vaughan
+63133 Sean Forge
+Ericland, WY 91359
+Tax Id: 972-72-8665
+IBAN: GB39CXVC62576925140756
+ITEMS
+No. Description
+1.
+Nike 749998-401 Team Hustle
+D7 Kid's Shoes Mid Top Basketball
+Shoes Size 4Y US
+2.
+5 YOUTH Boys Big Kids Nike
+Jordan 6-17-23 Basketball White
+red Black 428814 100
+3.
+The Children's Place Brown
+Boys Lace Up Shoes Size 12
+4.
+jordan 3 white cement size 13.5
+kids youth boys
+5.
+Puma Pre-School Scuderia
+Ferrari Drift Cat 5 Ultra II Shoes
+Boys 12c
+6.
+Joma Boys Youth Gol-102
+Soccer Cleats Shoes Size 3.5
+White Red Futbol NEW
+7.
+Jordan 10 Retro Fusion Red Size
+6Y
+Client:
+Cooley Ltd
+36837 Seth Lane
+Kenvinview, NC 29771
+Tax Id: 979-84-9816
+Qty UM Net price Net worth VAT [%] Gross
+worth
+2,00 each 10,99 21,98 10% 24,18
+3,00 each 89,99 269,97 10% 296,97
+5,00 each 8,00 40,00 10% 44,00
+5,00 each 21,00 105,00 10% 115,50
+4,00 each 21,22 84,88 10% 93,37
+2,00 each 19,99 39,98 10% 43,98
+2,00 each 60,00 120,00 10% 132,00
+SUMMARY
+VAT [%]
+Net worth
+VAT
+Gross worth
+10%
+681,81
+68,18
+749,99
+Total $ 681,81 $ 68,18 $ 749,99

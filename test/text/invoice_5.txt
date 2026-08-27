@@ -1,0 +1,32 @@
+Invoice no: 63665479
+Date of issue: 02/12/2017
+Seller:
+Lowery LLC
+90317 Michael Flats Suite 502
+East Lisaville, DC 67918
+Tax Id: 974-85-9317
+IBAN: GB08JPBK40228601332306
+ITEMS
+No. Description
+1.
+Vince Camuto Sweater Dress
+Size Medium Striped Long
+Sleeve
+Client:
+Carrillo-Montoya
+089 Adam Knolls Apt. 628
+Andreaside, UT 62682
+Tax Id: 918-91-3132
+Qty UM Net price Net worth VAT [%] Gross
+worth
+5,00 each 32,00 160,00 10% 176,00
+SUMMARY
+VAT [%]
+Net worth
+VAT
+Gross worth
+10%
+160,00
+16,00
+176,00
+Total $ 160,00 $ 16,00 $ 176,00

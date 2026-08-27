@@ -1,0 +1,55 @@
+Invoice no: 27301261
+Date of issue: 10/09/2012
+Seller:
+Williams LLC
+72074 Taylor Plains Suite 342
+West Alexandria, AR 97978
+Tax Id: 922-88-2832
+IBAN: GB70FTNR64199348221780
+ITEMS
+No. Description
+1.
+Lilly Pulitzer dress Size 2
+2.
+New Erin Erin Fertherston
+Straight Dress White Sequence
+withing Sleeveless Size 10
+3.
+Sequence Dress Size Small
+4.
+fire loss angeles dress Medium
+5.
+Eileen Fisher Women's Long
+Sleeve linen Linen Front
+Pockets Dress XS Gray
+6.
+Lularoe Nicole Dress Size Small
+Light Solid Grey/ White Ringer
+Tee Trim
+7.
+J Crew Collection Black & White
+Sweater dress sz S
+Client:
+Hernandez-Anderson
+084 Carter Lane Apt. 846
+South Ronaldzbury, AZ 91030
+Tax Id: 959-74-5868
+Qty UM Net price Net worth VAT [%] Gross
+worth
+5,00 each 45,00 225,00 10% 247,50
+1,00 each 59,99 59,99 10% 65,99
+3,00 each 35,00 105,00 10% 115,50
+3,00 each 6,50 19,50 10% 21,45
+3,00 each 15,99 47,97 10% 52,77
+2,00 each 3,75 7,50 10% 8,25
+1,00 each 30,00 30,00 10% 33,00
+SUMMARY
+VAT [%]
+Net worth
+VAT
+Gross worth
+10%
+494,96
+49,50
+544,46
+Total $ 494,96 $ 49,50 $ 544,46

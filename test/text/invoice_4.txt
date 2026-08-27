@@ -1,0 +1,57 @@
+Invoice no: 10823698
+Date of issue: 09/26/2020
+Seller:
+Hernandez Ltd
+668 Marie Isle
+New Kimbirg, AR 92381
+Tax Id: 992-82-2992
+IBAN: GB18POYJ80406485504853
+ITEMS
+No. Description
+1.
+YILONG 6'x7'5" Handknotted
+Silk Carpet Whiteline Home
+Decor Classic Rug 0807
+2.
+Yilong 8x10ft Hand knotted
+Wool Carpet Home Decor
+Xadem Villa Area Rug P39
+3.
+Yilong 6'x7' Handknotted Silk
+Carpet Home Interior Classic
+Luxury Area Rug 1047
+4.
+Leopard Printed Rug Skin Mat
+Tapis Peaux Et Animais Area
+Rugs Home Carpets
+5.
+Black+White Rectangle Shape
+Area Rug Carpet Floor Pad
+Doormat Mats Non-slip Z4F9
+6.
+Philadelphia Eagles Anti Skid
+Absorb Soft Floor Mat Carpet
+Living Room Bedroom
+Client:
+Huerta-Cortez
+22697 Hamilton Ranch
+New Samathanon, AR 01797
+Tax Id: 934-82-8445
+Qty UM Net price Net worth VAT [%] Gross
+worth
+3,00 each 2 800,00 8 400,00 10% 9 240,00
+2,00 each 5 040,00 10 080,00 10% 11 088,00
+4,00 each 8 400,00 33 600,00 10% 36 960,00
+4,00 each 19,49 77,96 10% 85,76
+3,00 each 21,10 63,30 10% 69,63
+2,00 each 18,04 36,08 10% 39,69
+SUMMARY
+VAT [%]
+Net worth
+VAT
+Gross worth
+10%
+52 257,34
+5 225,73
+57 483,07
+Total $ 52 257,34 $ 5 225,73 $ 57 483,07
