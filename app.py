@@ -265,23 +265,21 @@ with st.sidebar:
     # Evaluation section
     st.write("### Evaluation")
     if st.button("Evaluate OCR Result"):
-        if st.session_state.last_generated_text:
+        if not st.session_state.last_generated_text:
+            st.error("Please generate OCR text first")
+        elif not st.session_state.reference_text:
+            st.error("Please enter reference text before evaluating")
+        else:
             try:
                 with st.spinner("Evaluating OCR result..."):
                     st.session_state.evaluation_results = evaluate_invoice_ocr(
                         st.session_state.last_generated_text,
-                        (
-                            st.session_state.reference_text
-                            if st.session_state.reference_text
-                            else None
-                        ),
+                        st.session_state.reference_text,
                     )
                 st.success("Evaluation complete!")
             except Exception as e:
                 st.error(f"Error during evaluation: {str(e)}")
                 st.error("Please try again or check your evaluation configuration.")
-        else:
-            st.error("Please generate OCR text first")
 
 # Main interface
 col_title, col_clear = st.columns([3, 1])
@@ -411,7 +409,7 @@ if st.session_state.evaluation_results:
                 zerolinecolor="rgba(128, 128, 128, 0.2)",
             )
 
-            st.plotly_chart(fig, width="stretch")
+            st.plotly_chart(fig, use_container_width=True)
 
             st.write(f"### {st.session_state.selected_model} detailed metrics")
 
@@ -455,7 +453,7 @@ if st.session_state.evaluation_results:
                     ),
                 },
                 hide_index=True,
-                width="stretch",
+                use_container_width=True,
             )
     except Exception as e:
         st.error(f"Error displaying evaluation results: {str(e)}")
