@@ -1,0 +1,6 @@
+model,image_path,target,pred_raw,pred_norm,cer,exact,status,seconds
+FakeModel,logos/20701.jpg,BOSEDEATH,2070,,1.0000,0,ok,0.0
+FakeModel,logos/6592.jpg,WIDOW,659,,1.0000,0,ok,0.0
+FakeModel,logos/58527.png,TERRODROWN,5852,,1.0000,0,ok,0.0
+FakeModel,logos/4231.gif,DYINGEMBRACE,423,,1.0000,0,ok,0.0
+FakeModel,logos/117314.jpg,SLUTVOMIT,11731,,1.0000,0,ok,0.0

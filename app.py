@@ -285,7 +285,7 @@ with st.sidebar:
 col_title, col_clear = st.columns([3, 1])
 with col_title:
     st.title("Open-source OCR Model Playground")
-    powered_by_html = """
+    powered_by_html = """ 
         <div style='display: flex; align-items: center; gap: 10px; margin-top: -10px;'>
             <span style='font-size: 20px; color: #666;'>Featuring</span>
             <img src="https://github.com/sitammeur/test-assets/blob/main/datalab-logo.png?raw=true" width="40">
