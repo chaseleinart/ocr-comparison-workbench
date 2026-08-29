@@ -1,0 +1,11 @@
+seed=0
+test_size=400
+val_size=300
+corpus=corpus.csv
+manifest=logos.csv
+baseline=baseline.csv
+train=4081
+val=300
+test=400
+protected=182
+token_dropped=642
